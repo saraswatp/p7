@@ -1,1 +1,1 @@
-web: gunicorn Datatable:server
+web: gunicorn app:server
